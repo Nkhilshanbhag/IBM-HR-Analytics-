@@ -1,5 +1,5 @@
 # IBM HR Analytics Employee Attrition & Performance
-This Project is done under the guidance of Unified Mentor and this is the project which i have done while i was in Internship with Unified Mentor
+This Project is done under the guidance of Unified Mentor and this is the project which i have done while i was in Internship with Unified Mentor. This is a guided learning project focused on data analysis and visualization
 
 ## 1. Introduction
 Employee attrition affects company performance and productivity. This project aims to analyze attrition drivers and build a predictive model to identify employees at risk of leaving.
